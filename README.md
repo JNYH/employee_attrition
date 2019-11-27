@@ -8,7 +8,7 @@ Which are the key factors leading to employee attrition?
 
 
 ## Read more
-https://towardsdatascience.com/
+https://towardsdatascience.com/human-resource-hr-analytics-on-employee-attrition-afdc3cfa0da8
 
 
 ## Connect with me
